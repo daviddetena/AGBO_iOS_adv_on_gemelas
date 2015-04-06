@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDA1663C-CB15-43A7-AFF4-58978E708FD6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gemelas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>327C5027010432CBB1A8DB50AE0312F31AF21F7D</key>
+		<string>https://github.com/daviddetena/AGBO_iOS_adv_on_gemelas.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gemelas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>327C5027010432CBB1A8DB50AE0312F31AF21F7D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daviddetena/AGBO_iOS_adv_on_gemelas.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>327C5027010432CBB1A8DB50AE0312F31AF21F7D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>327C5027010432CBB1A8DB50AE0312F31AF21F7D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gemelas</string>
+		</dict>
+	</array>
+</dict>
+</plist>

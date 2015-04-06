@@ -13,6 +13,10 @@
 #pragma mark - Properties
 @property (weak, nonatomic) IBOutlet UIImageView *photoView;
 
+
+#pragma mark - Methods
+-(void)imageWith:(void (^)(UIImage *image)) completionBlock;
+
 #pragma mark - Actions
 - (IBAction)downloadImage:(id)sender;
 
