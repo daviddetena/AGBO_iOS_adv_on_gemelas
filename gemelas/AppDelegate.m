@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "DTCImageViewController.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,10 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    
+    DTCImageViewController *iVC = [[DTCImageViewController alloc]init];
+    self.window.rootViewController = iVC;
+    
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];

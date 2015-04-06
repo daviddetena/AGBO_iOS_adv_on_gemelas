@@ -12,6 +12,8 @@
 		593AAF541AD2986A000C1BEB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 593AAF531AD2986A000C1BEB /* Images.xcassets */; };
 		593AAF571AD2986A000C1BEB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 593AAF551AD2986A000C1BEB /* LaunchScreen.xib */; };
 		593AAF631AD2986A000C1BEB /* gemelasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 593AAF621AD2986A000C1BEB /* gemelasTests.m */; };
+		593AAF6F1AD298AE000C1BEB /* DTCImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 593AAF6D1AD298AE000C1BEB /* DTCImageViewController.m */; };
+		593AAF701AD298AE000C1BEB /* DTCImageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 593AAF6E1AD298AE000C1BEB /* DTCImageViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,9 @@
 		593AAF5C1AD2986A000C1BEB /* gemelasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gemelasTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		593AAF611AD2986A000C1BEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		593AAF621AD2986A000C1BEB /* gemelasTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gemelasTests.m; sourceTree = "<group>"; };
+		593AAF6C1AD298AE000C1BEB /* DTCImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTCImageViewController.h; sourceTree = "<group>"; };
+		593AAF6D1AD298AE000C1BEB /* DTCImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTCImageViewController.m; sourceTree = "<group>"; };
+		593AAF6E1AD298AE000C1BEB /* DTCImageViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DTCImageViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +86,9 @@
 				593AAF531AD2986A000C1BEB /* Images.xcassets */,
 				593AAF551AD2986A000C1BEB /* LaunchScreen.xib */,
 				593AAF4C1AD2986A000C1BEB /* Supporting Files */,
+				593AAF6C1AD298AE000C1BEB /* DTCImageViewController.h */,
+				593AAF6D1AD298AE000C1BEB /* DTCImageViewController.m */,
+				593AAF6E1AD298AE000C1BEB /* DTCImageViewController.xib */,
 			);
 			path = gemelas;
 			sourceTree = "<group>";
@@ -192,6 +200,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				593AAF571AD2986A000C1BEB /* LaunchScreen.xib in Resources */,
+				593AAF701AD298AE000C1BEB /* DTCImageViewController.xib in Resources */,
 				593AAF541AD2986A000C1BEB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,6 +221,7 @@
 			files = (
 				593AAF521AD2986A000C1BEB /* AppDelegate.m in Sources */,
 				593AAF4F1AD2986A000C1BEB /* main.m in Sources */,
+				593AAF6F1AD298AE000C1BEB /* DTCImageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
